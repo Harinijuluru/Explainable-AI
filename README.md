@@ -10,4 +10,4 @@ ASSIGNMENT4-https://github.com/Harinijuluru/Explainable-AI/blob/main/Assignment_
 
 ASSIGNMENT5-https://github.com/Harinijuluru/Explainable-AI/blob/main/expAI_ass5.ipynb
 
-ASSIGNMENT6-https://github.com/Harinijuluru/Explainable-AI/blob/main/Assignment6.ipynb
+ASSIGNMENT6-https://github.com/Harinijuluru/Explainable-AI/blob/main/Assignment6.ip
